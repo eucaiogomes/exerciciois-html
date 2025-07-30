@@ -1,6 +1,7 @@
 body{
     background-color: burlywood;
-    padding: 20px;
+    font-family: Poppins, sans-serif;
+    
 }
 h2{
     color: darkblue;
@@ -9,4 +10,13 @@ h2{
 h1{
     color: darkred;
     font-family: Arial, sans-serif;
+    padding-left: 400px;
+}
+
+ul
+{
+    list-style-type: square;
+    padding-left: 500px;
+    color: darkgreen;
+    font-family: Arial, sans-serif;     
 }
